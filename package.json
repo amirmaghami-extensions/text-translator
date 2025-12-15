@@ -1,6 +1,6 @@
 {
-  "name": "text-translator",
-  "displayName": "Text Translator",
+  "name": "google-text-translator",
+  "displayName": "Google Text Translator",
   "description": "Translate selected text to Persian using Google Translate (free, no API key required)",
   "publisher": "amirmaghami",
   "version": "1.0.0",
@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amirmaghami-extensions/text-translator.git"
+    "url": "https://github.com/amirmaghami-extensions/google-text-translator.git"
   },
   "homepage": "https://amirmaghami.ir",
   "bugs": {
-    "url": "https://github.com/amirmaghami-extensions/text-translator/issues"
+    "url": "https://github.com/amirmaghami-extensions/google-text-translator/issues"
   },
   "author": {
     "name": "Amir Maghami",
