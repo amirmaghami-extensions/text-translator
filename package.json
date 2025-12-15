@@ -4,6 +4,7 @@
   "description": "Translate selected text to Persian using Google Translate (free, no API key required)",
   "publisher": "amirmaghami",
   "version": "1.0.0",
+  "icon": "translate.png",
   "engines": {
     "vscode": "^1.105.1"
   },
@@ -13,6 +14,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/amirmaghami-extensions/text-translator.git"
+  },
+  "homepage": "https://amirmaghami.ir",
+  "bugs": {
+    "url": "https://github.com/amirmaghami-extensions/text-translator/issues"
+  },
+  "author": {
+    "name": "Amir Maghami",
+    "url": "https://amirmaghami.ir"
   },
   "activationEvents": [
     "onCommand:translator.translateSelection"
